@@ -1,1 +1,2 @@
-# atividade 7
+# Gerencia de Configuracao
+atividade 7
